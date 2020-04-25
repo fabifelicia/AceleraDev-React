@@ -11,8 +11,6 @@ const fibonacci = () => {
   return fib;
 };
 
-console.log(fibonacci());
-
 const isFibonnaci = (num) => {
   const fib = fibonacci();
   for (let index = 0; index < fib.length; index++) {
@@ -22,8 +20,6 @@ const isFibonnaci = (num) => {
   }
   return false;
 };
-
-console.log(isFibonnaci(350));
 
 module.exports = {
   fibonacci,
