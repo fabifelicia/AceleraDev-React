@@ -12,13 +12,7 @@ const fibonacci = () => {
 };
 
 const isFibonnaci = (num) => {
-  const fib = fibonacci();
-  for (let index = 0; index < fib.length; index++) {
-    if (num === fib[index]) {
-      return true;
-    }
-  }
-  return false;
+  return fibonacci().includes(num);
 };
 
 module.exports = {
