@@ -1,10 +1,11 @@
 # Mobile First: Instagram
+[![Netlify Status](https://api.netlify.com/api/v1/badges/808d0cff-3da9-4c2b-806d-579d1fcf5568/deploy-status)](https://app.netlify.com/sites/incredible-insta/deploys)
   
 ## Objetivo:
 Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5** e **CSS3**.
 
 > **Preview:**
-> [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public)
+> [Instagram Codenation](https://incredible-insta.netlify.app/)
 
 ## Tópicos:
 Neste desafio, você vai praticar os seus conhecimentos em: 
