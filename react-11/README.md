@@ -1,10 +1,11 @@
-# Site estático: 🎥 IMDB  
+# Site estático: 🎥 IMDB
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c330d9a-212a-41fe-8733-19addcac74d6/deploy-status)](https://app.netlify.com/sites/incredible-imdb/deploys)
   
 ## Objetivo: 
 O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e **CSS3**.
 
 > **Preview:**
-> 👉 [IMDB Codenation](https://aceleradev-react.netlify.com/aula-01/public/)
+> 👉 [IMDB Codenation](https://incredible-imdb.netlify.app/)
 
 ## Tópicos:
 Neste desafio, você vai praticar os seus conhecimentos em:
